@@ -34,7 +34,7 @@ switch (new Date().getDay()) {
     break;
   case 5:
     day = "Fredagen";
-    textmenu = "är Pizza med pizzasallad";
+    textmenu = "Tacos";
     break;
   case 6:
     day = "lördagen";
